@@ -1,0 +1,10 @@
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/obj/Debug/netcoreapp2.0/Structural.csproj.CoreCompileInputs.cache
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/obj/Debug/netcoreapp2.0/Structural.AssemblyInfoInputs.cache
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/obj/Debug/netcoreapp2.0/Structural.AssemblyInfo.cs
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/bin/Debug/netcoreapp2.0/Structural.deps.json
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/bin/Debug/netcoreapp2.0/Structural.runtimeconfig.json
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/bin/Debug/netcoreapp2.0/Structural.runtimeconfig.dev.json
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/bin/Debug/netcoreapp2.0/Structural.dll
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/bin/Debug/netcoreapp2.0/Structural.pdb
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/obj/Debug/netcoreapp2.0/Structural.dll
+/home/dvalkov/Documents/Projects/InterpretterPattern/Structural/obj/Debug/netcoreapp2.0/Structural.pdb
