@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/RealTime.csproj",
-      "projectName": "RealTime",
-      "projectPath": "/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/RealTime.csproj",
+      "projectUniqueName": "/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/RealWorld.csproj",
+      "projectName": "RealWorld",
+      "projectPath": "/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/RealWorld.csproj",
       "packagesPath": "/home/dvalkov/.nuget/packages/",
       "outputPath": "/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/",
       "projectStyle": "PackageReference",
