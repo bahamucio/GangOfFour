@@ -1,0 +1,10 @@
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/bin/Debug/netcoreapp2.0/RealTime.deps.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/bin/Debug/netcoreapp2.0/RealTime.runtimeconfig.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/bin/Debug/netcoreapp2.0/RealTime.runtimeconfig.dev.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/bin/Debug/netcoreapp2.0/RealTime.dll
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/bin/Debug/netcoreapp2.0/RealTime.pdb
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/Debug/netcoreapp2.0/RealTime.csproj.CoreCompileInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/Debug/netcoreapp2.0/RealTime.AssemblyInfoInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/Debug/netcoreapp2.0/RealTime.AssemblyInfo.cs
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/Debug/netcoreapp2.0/RealTime.dll
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/RealWorld/obj/Debug/netcoreapp2.0/RealTime.pdb

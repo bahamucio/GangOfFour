@@ -1,0 +1,13 @@
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Strucural/obj/Debug/netcoreapp2.0/Strucural.csproj.CoreCompileInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Strucural/obj/Debug/netcoreapp2.0/Strucural.AssemblyInfoInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Strucural/obj/Debug/netcoreapp2.0/Strucural.AssemblyInfo.cs
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/bin/Debug/netcoreapp2.0/Strucural.deps.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/bin/Debug/netcoreapp2.0/Strucural.runtimeconfig.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/bin/Debug/netcoreapp2.0/Strucural.runtimeconfig.dev.json
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/bin/Debug/netcoreapp2.0/Strucural.dll
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/bin/Debug/netcoreapp2.0/Strucural.pdb
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/obj/Debug/netcoreapp2.0/Strucural.csproj.CoreCompileInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/obj/Debug/netcoreapp2.0/Strucural.AssemblyInfoInputs.cache
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/obj/Debug/netcoreapp2.0/Strucural.AssemblyInfo.cs
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/obj/Debug/netcoreapp2.0/Strucural.dll
+/home/dvalkov/Documents/Projects/GangOfFour/BehavioralPatterns/StrategyPattern/Structural/obj/Debug/netcoreapp2.0/Strucural.pdb
